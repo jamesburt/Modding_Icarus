@@ -1,0 +1,28 @@
+{
+        "name": "Globeadues 20 slot Dropship",
+        "author": "Globeadue",
+        "version": "1",
+        "description": "Sets dropship inventory to 20",
+        "fileName": "Globeadue_Dropship_20",
+        "readmeURL": "",
+        "imageURL": "",
+        "Level2": "True",
+        "Rows": [
+        {
+            "CurrentFile": "Inventory-D_InventoryInfo.json",
+            "File_Items": [
+                {
+                    "Name": "Space_Player_Loadout",
+                    "StartingSlots": 20
+                },
+                {
+                    "Name": "DropShip_Equipment",
+                    "StartingSlots": 20
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}

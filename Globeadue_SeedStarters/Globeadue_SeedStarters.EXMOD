@@ -1,0 +1,1653 @@
+{
+    "name": "Globeadues Seed Starters",
+    "author": "Globeadue",
+    "version": "1.0",
+    "description": "Overhaul of the Seed Packet section of the workshop. Prices are aimed at the mid level player who is starting to be able to bank esxcess Ren.",
+    "fileName": "Globeadue_SeedStarters",
+    "readmeURL": "",
+    "imageURL": "",
+    "Level2": "True",
+    "Rows": [
+    {
+        "CurrentFile": "Items-D_ItemsStatic.json",
+        "File_Items": [
+            {
+                "Name": "Meta_Corn_Seed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle001"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle001"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            },
+            {
+                "Name": "Meta_Squash_Seed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle002"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle002"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            },
+            {
+                "Name": "Meta_Pumpkin_Seed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle003"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle003"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            },
+            {
+                "Name": "Meta_Carrot_Seed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle004"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle004"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            },
+            {
+                "Name": "Meta_Watermelon_Seed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle005"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle005"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            },
+            {
+                "Name": "Meta_Wheat_Seed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle006"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle006"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            },
+            {
+                "Name": "Meta_Berry_Seed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle007"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle007"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            },
+            {
+                "Name": "Meta_Bean_Seed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle008"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle008"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            },
+            {
+                "Name": "Meta_Mushroom_Seed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle009"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesSeedBundle009"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            }
+        ]
+    },
+    {
+        "CurrentFile": "Items-D_ItemTemplate.json",
+        "Defaults": {
+            "ItemStaticData": {
+                "RowName": "None",
+                "DataTableName": "D_ItemsStatic"
+            },
+            "ItemDynamicData": [],
+            "CustomProperties": {
+                "StaticWorldStats": [],
+                "StaticWorldHeldStats": [],
+                "Stats": [],
+                "Alterations": []
+            },
+            "DatabaseGUID": "",
+            "RuntimeTags": {
+                "GameplayTags": []
+            }
+        },
+        "File_Items": [
+            {
+                "Name": "GlobesBerryx2",
+                "ItemStaticData": {
+                    "RowName": "Berry"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesSquashx2",
+                "ItemStaticData": {
+                    "RowName": "Squash"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesCarrotx2",
+                "ItemStaticData": {
+                    "RowName": "Carrot"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesCornx2",
+                "ItemStaticData": {
+                    "RowName": "Corn"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesKumarax2",
+                "ItemStaticData": {
+                    "RowName": "Kumara"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesRhubarbx2",
+                "ItemStaticData": {
+                    "RowName": "Rhubarb"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesBeanx2",
+                "ItemStaticData": {
+                    "RowName": "Bean"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesWatermelonx2",
+                "ItemStaticData": {
+                    "RowName": "Watermelon"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesAvocadox2",
+                "ItemStaticData": {
+                    "RowName": "Avocado"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesStrawberryx2",
+                "ItemStaticData": {
+                    "RowName": "Strawberry"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesMushroomx2",
+                "ItemStaticData": {
+                    "RowName": "Mushroom"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesPumpkinx2",
+                "ItemStaticData": {
+                    "RowName": "Pumpkin"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesLilyx2",
+                "ItemStaticData": {
+                    "RowName": "Lily"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesYeastx2",
+                "ItemStaticData": {
+                    "RowName": "Yeast"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesReed_Flowerx2",
+                "ItemStaticData": {
+                    "RowName": "Reed_Flower"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesWheatx2",
+                "ItemStaticData": {
+                    "RowName": "Wheat"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesCocoax2",
+                "ItemStaticData": {
+                    "RowName": "Cocoa"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesGreenTeax2",
+                "ItemStaticData": {
+                    "RowName": "GreenTea"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesCoffeex2",
+                "ItemStaticData": {
+                    "RowName": "Coffee"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesWildTeax2",
+                "ItemStaticData": {
+                    "RowName": "WildTea"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 2
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesPlantersx12Seeds",
+                "ItemStaticData": {
+                    "RowName": "Farming_CropPlot"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 12
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesConcreteFloorx12Seeds",
+                "ItemStaticData": {
+                    "RowName": "Concrete_Floor"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 3
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesConcretePillarsx12Seeds",
+                "ItemStaticData": {
+                    "RowName": "Concrete_Beam"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 9
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesFertilizerx12Seeds",
+                "ItemStaticData": {
+                    "RowName": "Basic_Fertilizer"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 12
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesPlantersx16Seeds",
+                "ItemStaticData": {
+                    "RowName": "Farming_CropPlot"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 16
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesConcreteFloorx16Seeds",
+                "ItemStaticData": {
+                    "RowName": "Concrete_Floor"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 4
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesConcretePillarsx16Seeds",
+                "ItemStaticData": {
+                    "RowName": "Concrete_Beam"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 12
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesFertilizerx16Seeds",
+                "ItemStaticData": {
+                    "RowName": "Basic_Fertilizer"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 16
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesPlantersx40Seeds",
+                "ItemStaticData": {
+                    "RowName": "Farming_CropPlot"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 40
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesConcreteFloorx40Seeds",
+                "ItemStaticData": {
+                    "RowName": "Concrete_Floor"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 10
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesConcretePillarsx40Seeds",
+                "ItemStaticData": {
+                    "RowName": "Concrete_Beam"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 40
+                    }
+                ]
+            },
+            {
+                "Name": "GlobesFertilizerx40Seeds",
+                "ItemStaticData": {
+                    "RowName": "Basic_Fertilizer"
+                },
+                "ItemDynamicData": [
+                    {
+                        "PropertyType": "ItemableStack",
+                        "Value": 40
+                    }
+                ]
+            }
+        ]      
+    },
+    {
+        "CurrentFile": "MetaWorkshop-D_WorkshopItems.json",
+        "File_Items": [
+            {
+                "Name": "Meta_Corn_Seed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 200
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 100
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 30
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    }
+                ]
+            },
+            {
+                "Name": "Meta_Squash_Seed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 200
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 100
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 60
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    }
+                ]
+            },
+            {
+                "Name": "Meta_Pumpkin_Seed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 200
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 100
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 60
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    }
+                ]
+            },
+            {
+                "Name": "Meta_Carrot_Seed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 200
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 100
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 60
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    }
+                ]
+            },
+            {
+                "Name": "Meta_Watermelon_Seed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 200
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 100
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 125
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    }
+                ]
+            },
+            {
+                "Name": "Meta_Wheat_Seed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 200
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 100
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 125
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    }
+                ]
+            },
+            {
+                "Name": "Meta_Berry_Seed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 200
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 100
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 125
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    }
+                ]
+            },
+            {
+                "Name": "Meta_Bean_Seed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 1000
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 250
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 400
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 20
+                    }
+                ]
+            },
+            {
+                "Name": "Meta_Mushroom_Seed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 200
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 100
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CurrentFile": "Traits-D_Consumable.json",
+        "File_Items": [
+            {
+                "Name": "Item_Meta_GlobesSeedBundle001",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "GlobesMushroomx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesSquashx2",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle002",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "GlobesBerryx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesStrawberryx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesWatermelonx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesAvocadox2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesPumpkinx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesMushroomx2",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle003",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "GlobesYeastx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesLilyx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesReed_Flowerx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesWheatx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesCocoax2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesCoffeex2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesGreenTeax2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesWildTeax2",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle004",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "GlobesCornx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesBeanx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesCarrotx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesSquashx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesKumarax2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesRhubarbx2",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle005",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "Meta_Squash_Seed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesFertilizerx12Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesConcretePillarsx12Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesConcreteFloorx12Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesPlantersx12Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle006",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "Meta_Pumpkin_Seed",
+                        "DataTableName": "D_ItemTemplate "
+                    },
+                    {
+                        "RowName": "GlobesFertilizerx16Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesConcretePillarsx16Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesConcreteFloorx16Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesPlantersx16Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle007",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "Meta_Carrot_Seed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesFertilizerx12Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesConcretePillarsx12Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesConcreteFloorx12Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesPlantersx12Seeds",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle008",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "Meta_Watermelon_Seed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Wheat_Seed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Berry_Seed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Composter_Wood",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Rain_Reservoir",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Cooking_Station",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Kitchen_Stove",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Biofuel_Can_Meta",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Kitchen_Bench",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Cooking_Station_V2",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle009",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "GlobesRhubarbx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesStrawberryx2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesKumarax2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "GlobesAvocadox2",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CurrentFile": "Traits-D_Itemable.json",
+        "File_Items": [
+            {
+                "Name": "Item_Meta_GlobesSeedBundle001",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle001-DisplayName\", \"Hot-n-Cold Seed Packet\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle001-Description\", \"Contains 2x of each (mushroom, squash)\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle001-FlavorText\", \"Plant after openeing!\")",
+                "Weight": 1000
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle002",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle002-DisplayName\", \"Fruit-n-Stuff Seed Packet\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle002-Description\", \"A collection of seeds (2x of each, Berry, Strawberry, Watermelon, Pumpkin, Avocado, Mushroom)\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle002-FlavorText\", \"Plant after openeing!\")",
+                "Weight": 1000
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle003",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle003-DisplayName\", \"Stable Seed Packet\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle003-Description\", \"A collection of stable seeds (2x of each Yeast, Wheat, Lily, Reed Flower, Cocoa Bean, Coffee Bean, Green Tea, Wild Tea)\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle003-FlavorText\", \"Plant after openeing!\")",
+                "Weight": 1000
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle004",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle004-DisplayName\", \"Vegi Seed Packet\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle004-Description\", \"A collection of seeds (2x of each, Squash, Carrot, Corn, Kumara, Rhubarb and Soybean)\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle004-FlavorText\", \"Plant after openeing!\")",
+                "Weight": 1000
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle005",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle005-DisplayName\", \"Deluxe Fruits-n-Stuff Kit\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle005-Description\", \"Deluxe pack contains a Stable Seed Packet and 34x Planter Starters (enough to plant each seed from the start)\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle005-FlavorText\", \"Plant after openeing!\")",
+                "Weight": 25000
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle006",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle006-DisplayName\", \"Deluxe Stable Kit\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle006-Description\", \"Deluxe pack contains a Stable Seed Packet and 4x Planter Starters (enough to plant each seed from the start)\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle006-FlavorText\", \"Plant after openeing!\")",
+                "Weight": 25000
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle007",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle007-DisplayName\", \"Deluxe Vegi Kit\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle007-Description\", \"Deluxe pack contains a Stable Seed Packet and 3x Planter Starters (enough to plant each seed from the start)\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle007-FlavorText\", \"Plant after openeing!\")",
+                "Weight": 25000
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle008",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle008-DisplayName\", \"Farm Kit\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle008-Description\", \"Contains 1x of each of the deluxe crop kits and the following: wood composter, rain catcher, cooking station, kitchen bench, kitchen oven, MXC Fuel Canister\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle008-FlavorText\", \"Plant after openeing!\")",
+                "Weight": 50000
+            },
+            {
+                "Name": "Item_Meta_GlobesSeedBundle009",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle009-DisplayName\", \"Open World Seed Packet\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle009-Description\", \"Contains 2x of each (rhubarb, strawberry, avocado and Kumara)\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesSeedBundle009-FlavorText\", \"Plant after openeing!\")",
+                "Weight": 1000
+            }
+        ]
+    },
+    {
+        "CurrentFile": "EndOfMod"
+    }
+]
+}
