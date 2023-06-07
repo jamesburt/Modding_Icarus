@@ -1,0 +1,325 @@
+{
+    "name": "Globeadues MXC Toolbox",
+    "author": "Globeadue",
+    "version": "1.0",
+    "description": "New workshop consumable item repacing the normal workshop crate, consumable contains a MXC Crate with all of the T1 MXC Tools, MXC Campfire, MXC Cot, and LED Flashlight and a bit of coal for the fire.",
+    "fileName": "Globeadue_MXCToolbox",
+    "readmeURL": "",
+    "imageURL": "",
+    "Level2": "True",
+    "Rows": [
+    {
+        "CurrentFile": "Items-D_ItemsStatic.json",
+        "File_Items": [
+            {
+                "Name": "Meta_Crate_Printed",
+                "Itemable": {
+                    "RowName": "Item_Meta_GlobesMXCToolbox"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Actionable": {
+                    "RowName": "Generic_Consumable"
+                },
+                "Consumable": {
+                    "RowName": "Item_Meta_GlobesMXCToolbox"
+                },
+                "Usable": {
+                    "RowName": "Consume_Stack_FoodWater"
+                },
+                "Floatable": {
+                    "RowName": "Item"
+                },
+                "Audio": {
+                    "RowName": "Default"
+                },
+                "CraftingExperience": 10,
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Consumable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Floatable"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            },
+            {
+                "Name": "Meta_Crate_Printed_2",
+                "Meshable": {
+                    "RowName": "Mesh_Meta_Crate_Printed"
+                },
+                "Itemable": {
+                    "RowName": "Item_Meta_Crate_Printed"
+                },
+                "Interactable": {
+                    "RowName": "Deployable"
+                },
+                "Focusable": {
+                    "RowName": "Focusable_1H"
+                },
+                "Highlightable": {
+                    "RowName": "Generic"
+                },
+                "Actionable": {
+                    "RowName": "Deployable"
+                },
+                "Usable": {
+                    "RowName": "Place"
+                },
+                "Deployable": {
+                    "RowName": "Meta_Crate_Printed"
+                },
+                "Durable": {
+                    "RowName": "Meta_Item_Printed"
+                },
+                "Inventory": {
+                    "RowName": "Storage_Printed_Crate"
+                },
+                "Decayable": {
+                    "RowName": "Decay_MetaItem"
+                },
+                "Weight": {
+                    "RowName": "LightDeployable"
+                },
+                "Audio": {
+                    "RowName": "WoodDeployable"
+                },
+                "Manual_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Audio.Shelter.Check"
+                        },
+                        {
+                            "TagName": "Item.Deployable.Storage"
+                        },
+                        {
+                            "TagName": "Item.Meta"
+                        }
+                    ]
+                },
+                "Generated_Tags": {
+                    "GameplayTags": [
+                        {
+                            "TagName": "Audio.Shelter.Check"
+                        },
+                        {
+                            "TagName": "Item.Deployable.Storage"
+                        },
+                        {
+                            "TagName": "Item.Meta"
+                        },
+                        {
+                            "TagName": "Traits.Meshable"
+                        },
+                        {
+                            "TagName": "Traits.Itemable"
+                        },
+                        {
+                            "TagName": "Traits.Interactable"
+                        },
+                        {
+                            "TagName": "Traits.Highlightable"
+                        },
+                        {
+                            "TagName": "Traits.Actionable"
+                        },
+                        {
+                            "TagName": "Traits.Usable"
+                        },
+                        {
+                            "TagName": "Traits.Deployable"
+                        },
+                        {
+                            "TagName": "Traits.Durable"
+                        },
+                        {
+                            "TagName": "Traits.Inventory"
+                        }
+                    ],
+                    "ParentTags": []
+                }
+            }
+        ]
+    },
+
+
+    {
+        "CurrentFile": "Items-D_ItemTemplate.json",
+        "File_Items": [
+            {
+                "Name": "Meta_Crate_Printed_2",
+                "ItemStaticData": {
+                    "RowName": "Meta_Crate_Printed_2",
+                    "DataTableName": "D_ItemsStatic"
+                },
+                "ItemDynamicData": [],
+                "CustomProperties": {
+                    "StaticWorldStats": [],
+                    "StaticWorldHeldStats": [],
+                    "Stats": [],
+                    "Alterations": []
+                },
+                "DatabaseGUID": "",
+                "RuntimeTags": {
+                    "GameplayTags": []
+                }
+            }
+
+        ]      
+    },
+        
+    {
+        "CurrentFile": "Traits-D_Consumable.json",
+        "File_Items": [          
+            {
+                "Name": "Item_Meta_GlobesMXCToolbox",
+                "Modifier": {
+                    "ModifierLifetime": 0
+                },
+                "Byproducts": [
+                    {
+                        "RowName": "Meta_Axe_Printed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Knife_Printed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Pickaxe_Printed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Firewhacker_Printed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Sickle_Printed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Coal_x25",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Cot_Printed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Campfire_Printed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Hammer_Printed",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Meta_Crate_Printed_2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    {
+                        "RowName": "Flashlight",
+                        "DataTableName": "D_ItemTemplate"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CurrentFile": "MetaWorkshop-D_WorkshopItems.json",
+        "File_Items": [
+            {
+                "Name": "Meta_Crate_Printed",
+                "ResearchCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 500
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    }
+                ],
+                "ReplicationCost": [
+                    {
+                        "Meta": {
+                            "RowName": "Credits",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 150
+                    },
+                    {
+                        "Meta": {
+                            "RowName": "Exotic1",
+                            "DataTableName": "D_MetaCurrency"
+                        },
+                        "Amount": 0
+                    }
+                ]
+            }
+        ]
+    
+            
+        
+    },
+    {
+        "CurrentFile": "Traits-D_Itemable.json",
+        "File_Items": [
+            {
+                "Name": "Item_Meta_GlobesMXCToolbox",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesMXCToolbox-DisplayName\", \"Prospectors Toolbox\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Meta_Crate_Printed.ITEM_Meta_Crate_Printed",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesMXCToolbox-Description\", \"A MXC crate full of all the basic tools for surviving on planet.\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_GlobesMXCToolbox-FlavorText\", \"Premium tools at affordable prices - Globe Corp!\")",
+                "Weight": 1000
+            },
+            {
+                "Name": "Item_Meta_Crate_Printed_2",
+                "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Crate_Printed_2-DisplayName\", \"MXC Crate\")",
+                "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Meta_Crate_Printed.ITEM_Meta_Crate_Printed",
+                "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Crate_Printed_2-Description\", \"A premade crate to store your supplies\")",
+                "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Crate_Printed_2-FlavorText\", \"Quicker than making your own\")",
+                "Weight": 2000
+            }
+        ]
+    },
+    {
+        "CurrentFile": "EndOfMod"
+    }
+]
+}

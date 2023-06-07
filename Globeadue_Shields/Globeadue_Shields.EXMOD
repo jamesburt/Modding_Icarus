@@ -1,9 +1,8 @@
 {
-    "name": "Globeadues Aluminium Shield",
+    "name": "Globeadues Shields",
     "author": "Globeadue",
-    "fileName": "Globeadue_Shield_Aluminium",
+    "fileName": "Globeadues_Shields",
     "version": "1.0",
-	"description": "Adds new aluminium shield to the game that has increased durability and returns damage back on the attacker",
     "Level2": "True",
     "Rows": [
         {
@@ -47,8 +46,7 @@
                     "AdditionalStats": {
                         "(Value=\"BaseShieldBlockRadiusDegrees_+\")": 90,
                         "(Value=\"BaseShieldBlock_%\")": 80,
-                        "(Value=\"BaseShieldBlock_+%\")": 0,
-						"(Value=\"BaseDamageReturned_%\")": 10
+                        "(Value=\"BaseShieldBlock_+%\")": 0
                     },
                     "Manual_Tags": {
                         "GameplayTags": [
@@ -145,7 +143,7 @@
                     "Name": "Item_Shield_Aluminium_Globes",
                     "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Shield_Aluminium_Globes-DisplayName\", \"Aluminium Shield\")",
                     "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Weapons/Shields/ITEM_Wood_Shield.ITEM_Wood_Shield",
-                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Shield_Aluminium_Globes-Description\", \"A large slab of aluminium with a bunch of screws glued to it.\")",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Shield_Aluminium_Globes-Description\", \"A large slab of metal with a bunch of screws glued to it.\")",
                     "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Shield_Aluminium_Globes-FlavorText\", \"More Screws, I need more screws!\")",
                     "Weight": 1500
                 }

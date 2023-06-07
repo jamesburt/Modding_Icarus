@@ -832,7 +832,20 @@
                         "PropertyType": "ItemableStack",
                         "Value": 12
                     }
-                ]
+
+                ],
+                "CustomProperties": {
+                    "StaticWorldStats": [],
+                    "StaticWorldHeldStats": [],
+                    "Alterations": [
+                                        {
+                                            "Value": "CropSpoilPrevention_1"
+                                        },
+                                        {
+                                            "Value": "CropYeild_2"
+                                        }
+                                    ]
+                }
             },
             {
                 "Name": "GlobesConcreteFloorx12Seeds",
@@ -845,6 +858,7 @@
                         "Value": 3
                     }
                 ]
+                
             },
             {
                 "Name": "GlobesConcretePillarsx12Seeds",
@@ -880,7 +894,31 @@
                         "PropertyType": "ItemableStack",
                         "Value": 16
                     }
-                ]
+                ],
+                "CustomProperties": {
+                    "StaticWorldStats": [],
+                    "StaticWorldHeldStats": [],
+                    "Alterations": [
+                                        {
+                                            "Value": "CropSpoilPrevention_1"
+                                        },
+                                        {
+                                            "Value": "CropGrowthSpeed_4"
+                                        },
+                                        {
+                                            "Value": "CropNightGrowthSpeed_2"
+                                        },
+                                        {
+                                            "Value": "CropFertilizerConsumption_1"
+                                        },
+                                        {
+                                            "Value": "CropYeild_2"
+                                        },
+                                        {
+                                            "Value": "CropSlowSpoil_2"
+                                        }
+                                    ]
+                }
             },
             {
                 "Name": "GlobesConcreteFloorx16Seeds",
@@ -1217,7 +1255,7 @@
                 ]
             },
             {
-                "Name": "Meta_Bean_Seed",
+                "Name": "Meta_Watermelon_Bean",
                 "ResearchCost": [
                     {
                         "Meta": {
@@ -1535,10 +1573,6 @@
                     },
                     {
                         "RowName": "Kitchen_Bench",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    {
-                        "RowName": "Cooking_Station_V2",
                         "DataTableName": "D_ItemTemplate"
                     }
                 ]

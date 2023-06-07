@@ -2,7 +2,7 @@
             "name": "Globeadues Husk Epoxy",
             "author": "Globeadue",
             "fileName": "Globeadue_HuskEpoxy",
-			"description": "Adds a new recipee to make epoxy using Cavewworm Husks and Treesap, Unlocked by same requirement to make caveworm weapons",
+			"description": "Adds a new recipee to make epoxy using Cavewworm Husks and Treesap 20 sap 1 husk",
             "version": "1.0",
             "Level2": "True",
             "Rows": [

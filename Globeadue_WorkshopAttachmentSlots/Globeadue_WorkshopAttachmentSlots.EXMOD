@@ -1,0 +1,85 @@
+{
+    "name": "Globeadues Workshop Attachment Slots",
+    "author": "Globeadue",
+    "fileName": "Globeadue_WorkshopAttachmentSlots",
+    "version": "1.0",
+	"description": "Adds attachment slots to various Workshop items",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                
+                    {
+                        "Name": "Meta_Carbon_Head_Beta",
+                        "InventoryContainer": {
+                            "RowName": "Head_Attachment"
+                        }
+                    },
+                    {
+                        "Name": "Meta_Carbon_Chest_Beta",
+                        "InventoryContainer": {
+                            "RowName": "Body_Attachment"
+                        }
+                    },
+                    {
+                        "Name": "Meta_Carbon_Arms_Beta",
+                        "InventoryContainer": {
+                            "RowName": "Arms_Attachment"
+                        }
+                    },
+                    {
+                        "Name": "Meta_Carbon_Legs_Beta",
+                        "InventoryContainer": {
+                            "RowName": "Legs_Attachment"
+                        }
+                    },
+                    {"Name": "Meta_Carbon_Feet_Beta","InventoryContainer": {
+                            "RowName": "Feet_Attachment"
+                        }
+                    },
+                    {"Name": "Meta_Axe","InventoryContainer": {"RowName": "Axe_Attachment"}},
+{"Name": "Meta_Axe_Inaris_Alpha","InventoryContainer": {"RowName": "Axe_Attachment"}},
+{"Name": "Meta_Axe_Inaris_Bravo","InventoryContainer": {"RowName": "Axe_Attachment"}},
+{"Name": "Meta_Axe_Inaris_Charlie","InventoryContainer": {"RowName": "Axe_Attachment"}},
+{"Name": "Meta_Axe_Inaris_Delta","InventoryContainer": {"RowName": "Axe_Attachment"}},
+{"Name": "Meta_Axe_Printed","InventoryContainer": {"RowName": "Axe_Attachment"}},
+{"Name": "Meta_Axe_Shengong_Alpha","InventoryContainer": {"RowName": "Axe_Attachment"}},
+{"Name": "Meta_Axe_Shengong_Beta","InventoryContainer": {"RowName": "Axe_Attachment"}},
+{"Name": "Meta_Axe_Shengong_Charlie","InventoryContainer": {"RowName": "Axe_Attachment"}},
+{"Name": "Meta_Bow_Larkwell","InventoryContainer": {"RowName": "Bow_Ammo_Attachment"}},
+{"Name": "Meta_Bow_Shengong","InventoryContainer": {"RowName": "Bow_Ammo_Attachment"}},
+{"Name": "Meta_Bow_Shengong_Alpha","InventoryContainer": {"RowName": "Bow_Ammo_Attachment"}},
+{"Name": "Meta_Bow_Shengong_Beta","InventoryContainer": {"RowName": "Bow_Ammo_Attachment"}},
+{"Name": "Meta_Bow_Shengong_Charlie","InventoryContainer": {"RowName": "Bow_Ammo_Attachment"}},
+{"Name": "Meta_Knife","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Knife_Inaris_Alpha","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Knife_Inaris_Bravo","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Knife_Inaris_Charlie","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Knife_Inaris_Delta","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Knife_Printed","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Knife_Shengong_Alpha","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Knife_Shengong_Beta","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Knife_Shengong_Charlie","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Knife_Shengong_Delta","InventoryContainer": {"RowName": "Knife_Attachment"}},
+{"Name": "Meta_Pickaxe","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Pickaxe_Inaris_Alpha","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Pickaxe_Inaris_Bravo","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Pickaxe_Inaris_Charlie","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Pickaxe_Inaris_Delta","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Pickaxe_Printed","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Pickaxe_Shengong_Alpha","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Pickaxe_Shengong_Beta","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Pickaxe_Shengong_Charlie","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Pickaxe_Shengong_Delta","InventoryContainer": {"RowName": "Pickaxe_Attachment"}},
+{"Name": "Meta_Sickle_Printed","InventoryContainer": {"RowName": "Sickle_Attachment"}},
+{"Name": "Meta_Sickle_Larkwell","InventoryContainer": {"RowName": "Sickle_Attachment"}}
+
+
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+} 
