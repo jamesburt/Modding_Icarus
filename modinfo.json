@@ -1,0 +1,108 @@
+{
+    "mods": [
+      {
+        "name": "Globeadue 20 Slot Dropship",
+        "author": "globeadue",
+        "version": "1.0",
+        "compatibility": "w78",
+        "description": "Sets the dropship to 20 inventory slots",
+        "files": {
+          
+          "exmodz": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/Globeadue_Dropship20.EXMOD"
+        },
+        
+        "readmeURL": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/README.md"
+      },
+      {
+        "name": "Globeadue Husk Epoxy",
+        "author": "globeadue",
+        "version": "1.0",
+        "compatibility": "w78",
+        "description": "Adds recipe to make epoxy using 20 sap an 1 caveworm husk",
+        "files": {
+          
+          "exmodz": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/Globeadue_HuskEpoxy.EXMOD"
+        },
+        
+        "readmeURL": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/README.md"
+      },
+      {
+        "name": "Globeadue Iron Shotgun Shells",
+        "author": "globeadue",
+        "version": "1.0",
+        "compatibility": "w78",
+        "description": "Adds recipee to make shotgun shells with iron instead of copper",
+        "files": {
+          
+          "exmodz": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/Globeadue_IronShotgunShells.EXMOD"
+        },
+        
+        "readmeURL": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/README.md"
+      },
+      {
+        "name": "Globeadue MXC Toolbox",
+        "author": "globeadue",
+        "version": "1.0",
+        "compatibility": "w78",
+        "description": "Replaces the MXC Crate option in workshop with a MXC Toolbox consumable. Consuming produces a collection of the base MXC tools(axe, pick etc), a MXC Cot, Led Flashlight, a MXC crate and a MXC campfire. A bit of comet coal included for the campfire.",
+        "files": {
+          
+          "exmodz": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/Globeadue_MXCToolbox.EXMOD"
+        },
+        
+        "readmeURL": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/README.md"
+      },
+      {
+        "name": "Globeadue Reploter",
+        "author": "globeadue",
+        "version": "1.0",
+        "compatibility": "w78",
+        "description": "Adds a recipe that takes a normal farm plot and outputs a normal farm plot. This allows you to apply your farm plot talents without having to destroy the farm plot and recraft it, loosing half the materials.",
+        "files": {
+          
+          "exmodz": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/Globeadue_Reploter.EXMOD"
+        },
+        
+        "readmeURL": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/README.md"
+      },
+      {
+        "name": "Globeadue Seed Starter",
+        "author": "globeadue",
+        "version": "1.0",
+        "compatibility": "w78",
+        "description": "This mod reimages most of the seed packet tree in the workshop. See readme for full details. ",
+        "files": {
+          
+          "exmodz": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/Globeadue_SeedStarters.EXMOD"
+        },
+        
+        "readmeURL": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/README_SeedStarters.md"
+      },
+      {
+        "name": "Globeadue Shields",
+        "author": "globeadue",
+        "version": "1.0",
+        "compatibility": "w78",
+        "description": "Adds an Aluminium Shield that is tougher than the wood shield and returns a little bit dmg back to the attacker.",
+        "files": {
+          
+          "exmodz": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/Globeadue_Shields.EXMOD"
+        },
+        
+        "readmeURL": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/README.md"
+      },
+      {
+        "name": "Globeadue Wood 2 Sap",
+        "author": "globeadue",
+        "version": "1.0",
+        "compatibility": "w78",
+        "description": "Adds a recipee to the Woodcrafting bench to make sap out of wood logs.",
+        "files": {
+          
+          "exmodz": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/Globeadue_Wood2Sap.EXMOD"
+        },
+        
+        "readmeURL": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/README.md"
+      }
+    ]
+  }
