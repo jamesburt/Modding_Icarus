@@ -1,4 +1,5 @@
-Globeadue Seed Starts
+Globeadue Seed Starters
+
 Ever want to land on planet and just be able to startup the garden right away? This mod is the answer.
 
 Completely reimages the seed packet tree in the workshop.
