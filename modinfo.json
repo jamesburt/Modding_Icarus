@@ -60,7 +60,7 @@
         "description": "Adds a recipe that takes a normal farm plot and outputs a normal farm plot. This allows you to apply your farm plot talents without having to destroy the farm plot and recraft it, loosing half the materials.",
         "files": {
           
-          "exmodz": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/Globeadue_Reploter.EXMOD"
+          "exmodz": "https://github.com/jamesburt/Modding_Icarus/blob/raw/Globeadue_Reploter.EXMOD"
         },
         
         "readmeURL": "https://raw.githubusercontent.com/jamesburt/Modding_Icarus/main/README.md"
